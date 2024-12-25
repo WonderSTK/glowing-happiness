@@ -1,3 +1,10 @@
+//import Counter from "./components/Counter"
+import Faq from "./components/Faq"
+//import Live from "./components/Live"
+
+
+
+
 
 function App() {
   
